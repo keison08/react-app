@@ -11,3 +11,7 @@ botao-wellinson{
     height: 50px;
     padding: 10x 10px;
 }
+body{
+    align-items: center;
+    justify-content: center;
+}
