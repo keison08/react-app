@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+botao-wellinson{
+    border:none;
+    border-radius: 20px 20px 20px 20px;
+    width: 50px;
+    height: 50px;
+    padding: 10x 10px;
+}
